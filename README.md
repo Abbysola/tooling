@@ -74,3 +74,5 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 ***Checking for automatic changes by webhook***
+
+***Checking Configuration to NFS Server via SSH***
