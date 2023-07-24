@@ -74,11 +74,3 @@ Default web root:
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
 **Checking for automatic changes by webhook**
-
-****Checking for automatic changes by webhook test 2**
-
-****Checking for automatic changes by webhook test 3**
-
-****Checking for automatic changes by webhook test 4**
-
-****Checking for automatic changes by webhook test 5**
